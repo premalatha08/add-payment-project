@@ -1,0 +1,57 @@
+[
+   
+     {
+        "id":1,
+        "supplier":"Abi Company",
+        "bill_no" : "B101",
+        "total":1000,
+        "paid":200    },
+     
+        
+     {
+        "id":2,
+        "supplier":"Abi Company",
+        "bill_no" : "B102",
+        "total":500,
+        "paid":100    } ,
+      {
+        "id":3,
+        "supplier":"Abi Company",
+        "bill_no" : "B103",
+        "total":800,
+        "paid":0    } , 
+        {
+        "id":4,
+        "supplier":"Abi Company",
+        "bill_no" : "B104",
+        "total":600,
+        "paid":200    } , 
+
+
+        {
+        "id":5,
+        "supplier":"V.s Company",
+        "bill_no" : "B105",
+        "total":900,
+        "paid":100   }  ,
+
+        {
+        "id":6,
+        "supplier":"V.s Company",
+        "bill_no" : "B106",
+        "total":1200,
+        "paid":200    }  ,
+
+        {
+        "id":7,
+        "supplier":"V.s Company",
+        "bill_no" : "B107",
+        "total":700,
+        "paid":0    }  ,
+        {
+        "id":8,
+        "supplier":"V.s Company",
+        "bill_no" : "B108",
+        "total":400,
+        "paid":100    }  
+]
